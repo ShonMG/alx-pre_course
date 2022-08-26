@@ -1,1 +1,1 @@
-First git exercise 
+Setup for starting coding
